@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Node",
+        "version": "^12.4.0",
+        "list": [
+            ["NODE_OPTIONS", "shell", "argv0"],
+            ["NODE_OPTIONS", "shell", "argv0", "env"],
+            ["input", "shell", "argv0"],
+            ["env", "NODE_OPTIONS"],
+            ["argv0", "NODE_OPTIONS"],
+            ["execPath", "argv0", "execArgv"]
+        ]
+    },
+    {
+        "name": "jQuery",
+        "version": "^3.4.0",
+        "list": [
+            ["context", "jquery"],
+            ["url", "dataType"],
+            ["preventDefault", "handleObj", "delegateTarget"]
+        ]
+    },
+    {
+        "name": "Vue.js",
+        "list": [
+            ["attrs", "xxx", "is"],
+            ["v-bind", "class"],
+            ["data", "template", "nodeType", "innerHTML"],
+            ["props", "value", "name"],
+            ["template"]
+        ]
+    },
+    {
+        "name": "Popper.js",
+        "list": [
+            ["arrow", "style", "ontransitionend"],
+            ["reference", "style", "ontransitionend"],
+            ["popper", "style", "ontransitionend"]
+        ]
+    },
+    {
+        "name": "Zepto.js",
+        "list": [
+            "onerror", "html"
+        ]
+    },
+    {
+        "name": "Sprint.js",
+        "list": [
+            "div", "intro"
+        ]
+    },
+    {
+        "name": "DOMPurify",
+        "version": "^2.0.12",
+        "list": [
+            "ALLOWED_ATTR",
+            "documentMode"
+        ]
+    },
+    {
+        "name": "sanitize",
+        "list": [
+            "*", "innerText"
+        ]
+    }
+]

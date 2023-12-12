@@ -1,0 +1,31 @@
+[
+  [
+    "NODE_OPTIONS",
+    "shell",
+    "argv0"
+  ],
+  [
+    "NODE_OPTIONS",
+    "shell",
+    "argv0",
+    "env"
+  ],
+  [
+    "input",
+    "shell",
+    "argv0"
+  ],
+  [
+    "env",
+    "NODE_OPTIONS"
+  ],
+  [
+    "argv0",
+    "NODE_OPTIONS"
+  ],
+  [
+    "execPath",
+    "argv0",
+    "execArgv"
+  ]
+]
